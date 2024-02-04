@@ -1,0 +1,152 @@
+[
+    {
+        "offshore_wind": 5,
+        "tides": 0.6,
+        "air_tempreature": 24,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 6,
+        "tides": 1.1,
+        "air_tempreature": 23,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 7,
+        "tides": 0.6,
+        "air_tempreature": 22,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 1,
+        "tides": 0,
+        "air_tempreature": 28,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 12,
+        "tides": 0.2,
+        "air_tempreature": 31,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 10,
+        "tides": 0.7,
+        "air_tempreature": 30,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 2,
+        "tides": 0.2,
+        "air_tempreature": 25,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 2,
+        "tides": 0.1,
+        "air_tempreature": 25,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 5,
+        "tides": 0.1,
+        "air_tempreature": 23,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 25,
+        "tides": 0.4,
+        "air_tempreature": 26,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 27,
+        "tides": 0,
+        "air_tempreature": 27,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 28,
+        "tides": 0.6,
+        "air_tempreature": 26,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 29,
+        "tides": 0.4,
+        "air_tempreature": 28,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 28,
+        "tides": 0.4,
+        "air_tempreature": 29,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 28,
+        "tides": 0.7,
+        "air_tempreature": 27,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 26,
+        "tides": 0.1,
+        "air_tempreature": 27,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 25,
+        "tides": 1.1,
+        "air_tempreature": 28,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 27,
+        "tides": 0.3,
+        "air_tempreature": 28,
+        "suitable": 0
+    },
+    {
+        "offshore_wind": 10,
+        "tides": 1.3,
+        "air_tempreature": 21,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 11,
+        "tides": 0.6,
+        "air_tempreature": 21,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 10,
+        "tides": 0.3,
+        "air_tempreature": 20,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 7,
+        "tides": 0.6,
+        "air_tempreature": 20,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 8,
+        "tides": 0.9,
+        "air_tempreature": 21,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 10,
+        "tides": 1.3,
+        "air_tempreature": 22,
+        "suitable": 1
+    },
+    {
+        "offshore_wind": 7,
+        "tides": 1.6,
+        "air_tempreature": 20,
+        "suitable": 1
+    }
+]
